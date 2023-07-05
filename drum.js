@@ -21,7 +21,7 @@ function execute(word){
 //animation
  $("#"+word).addClass("animate");
     setTimeout(function(){$("#"+word).removeClass("animate")
-    },150)
+    },70)
      }
 
  
